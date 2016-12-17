@@ -13,7 +13,7 @@ npm install
 ```
 #####Run webpack dev
 ```
-npm run dev
+npm run development
 ```
 Go to [http://localhost:8080/webpack-dev-server](http://localhost:8080/webpack-dev-server)
 #####Run production

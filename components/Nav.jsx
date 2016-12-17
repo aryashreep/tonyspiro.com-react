@@ -51,7 +51,7 @@ class Nav extends React.Component {
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
             </button>
-            <a className="navbar-brand" target="_blank" href="https://cosmicjs.com">{ globals.text.menu_title }</a>
+            <a className="navbar-brand" target="_blank" href="https://etechbuddy.com">{ globals.text.menu_title }</a>
           </div>
 
           <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
